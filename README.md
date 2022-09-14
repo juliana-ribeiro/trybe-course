@@ -1,11 +1,11 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[mim](https://www.linkedin.com/in/juliana-ribeirosilva/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[mim](https://www.linkedin.com/in/juliana-ribeirosilva/)_ enquanto estudava na [Trybe](https://www.betrybe.com/).
 
-O programa conta com mais de 1.500 horas de aulas online síncronas/assíncronas, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+O programa conta com mais de 1.500 horas de aulas online síncronas/assíncronas, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais. :rocket:
 
 <details>
-  <summary><h3> Fundamentos do Desenvolvimento Web :white_check_mark: </h3></summary>
+  <summary><h3> Fundamentos do Desenvolvimento Web :heavy_check_mark: </h3></summary>
 
 ##### Bloco 1: Introdução - Unix & Bash
 
@@ -72,7 +72,7 @@ O programa conta com mais de 1.500 horas de aulas online síncronas/assíncronas
   </details>
 
   <details>
-  <summary><h3> Desenvolvimento Front-End :white_check_mark:</h3></summary>
+  <summary><h3> Desenvolvimento Front-End :heavy_check_mark:</h3></summary>
 
 ##### Bloco 9: Javascript e Testes Assíncronos
 
