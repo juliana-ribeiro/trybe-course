@@ -4,7 +4,7 @@
 
   <img src="https://i.imgur.com/Jo5FYTP.png" alt="Cowsay exemplo"/>
 
-* Espera-se que a nova imagem tenha uma mensagem padrão, ao invés de ser gerada aleatoriamente, e que esta também possa ser substituída. Isso é possível explorando a característica da instrução CMD ser sobrescrita sempre que fornecida uma nova, mesmo via linha de comando (CLI), já que só pode ter uma e é executada sempre a última. Dessa forma, a mensagem padrão pode facilmente ser substituída passando um argumento através do `docker run`.
+* Espera-se que a nova imagem tenha uma mensagem padrão, ao invés de ser gerada aleatoriamente, e que esta também possa ser substituída. Isso é possível explorando a característica da instrução CMD ser sobrescrita sempre que fornecida uma nova, mesmo via linha de comando (CLI), já que é executada sempre a última. Dessa forma, a mensagem padrão pode facilmente ser substituída passando um argumento através do `docker run`.
 
 
 ### Resolução:
