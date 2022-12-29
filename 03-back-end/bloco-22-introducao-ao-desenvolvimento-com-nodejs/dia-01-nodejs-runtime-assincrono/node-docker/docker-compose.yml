@@ -1,0 +1,12 @@
+version: '3'
+services:
+  node:
+    image: node:16
+    container_name: node-container
+    tty: true #igual a -t para execução
+    stdin_open: true #igual a -i para execução
+    command: bash
+    restart: always
+    working_dir: /node-docker # diretório de trabalho do container
+    volumes: #./ = nosso diretório
+      - ./:/node-docker
